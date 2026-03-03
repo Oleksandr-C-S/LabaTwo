@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Generators")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Oleksandr Chakun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Generator and iterator")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+226397895d0a405a5a551b7267a1f5bfa6bf288e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eed93f7881eb030b56a11f77ef2c66a0ddbfc259")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
