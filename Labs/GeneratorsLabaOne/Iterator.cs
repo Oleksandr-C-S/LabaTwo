@@ -1,28 +1,11 @@
 using System;
 using System.Collections.Generic;
 
-namespace GeneratorsLabaOne
+namespace LabaTwo.Labs.GeneratorsLabaOne
 {
-    
-
-    class Iterator
+        public static class Iterator
     {
-        
-
-        static void Main()
-        {
-            
-
-
-foreach (int numm in Fibonacci())
-            {
-                Console.WriteLine(numm);
-
-                if (numm > 100)
-                    break;
-            }
-
-            static IEnumerable<int> Fibonacci()
+           public static IEnumerable<int> Fibonacci()
             {
                 
                 int x = 0, y = 1;
@@ -39,4 +22,3 @@ foreach (int numm in Fibonacci())
 
         }
     }
-}
